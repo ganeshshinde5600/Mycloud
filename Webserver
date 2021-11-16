@@ -1,0 +1,5 @@
+cd /var/www/html
+/var/www/html$ ls
+index.html
+sudo rm index.html
+sudo nano index.html
